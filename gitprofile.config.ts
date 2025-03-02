@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             ' Website for cosmetic tattoos studio in Portland, OR. HTML, React, Node.js, 11ty, Nunjucks, SASS, JavaScript, Decap CMS, Netlify',
           imageUrl:
-            'https://raw.githubusercontent.com/StewedDownSteve/imgs-portfolio/main/BMPDX-desktop-img.png',
+            'https://i.imgur.com/QGNpuDh.png',
           link: 'https://beautymarkspdx.netlify.app/',
         },
          {
@@ -45,7 +45,7 @@ const CONFIG = {
           description:
             'My personal freelance website for clients. HTML, CSS, Javascript, Sitemap, 100 on Google Page Speed',
           imageUrl:
-            'https://imgur.com/ZAQu5GV',
+            'https://i.imgur.com/ZAQu5GV.png',
           link: 'https://goodlocalwebstudio.com/',
         },
         {
@@ -53,7 +53,7 @@ const CONFIG = {
           description:
             'Professional website for Chicago-based college professor and published writer. HTML, React, Node.js, 11ty, Nunjucks, SASS, JavaScript, Decap CMS, Netlify',
           imageUrl:
-            'https://imgur.com/C5zn75E',
+            'https://i.imgur.com/C5zn75E.png',
           link: 'https://github.com/StewedDownSteve/Dr-khalil-marrar-public',
         },
         {
@@ -61,7 +61,7 @@ const CONFIG = {
           description:
             'Coffee Shop in Portland Oregon, Coffee out of a VW Bus! HTML, CSS, JavaScript. 100 on Google Page Speed',
           imageUrl:
-            'https://imgur.com/kmKhjjT',
+            'https://i.imgur.com/kmKhjjT.png',
           link: 'https://moorecoffeeco.netlify.app/',
         },
         {
@@ -69,7 +69,7 @@ const CONFIG = {
           description:
             'Made for a Portland record store after they moved to a new location. HTML, CSS, JavaScript',
           imageUrl:
-            'https://imgur.com/ZkZ9EjN',
+            'https://i.imgur.com/ZkZ9EjN.png',
           link: 'https://prospector-records.netlify.app/',
         },
         {
@@ -77,7 +77,7 @@ const CONFIG = {
           description:
             'A personal website/portfolio for a Product Manager. HTML, CSS, JavaScript',
           imageUrl:
-            'https://imgur.com/kB2ug7X',
+            'https://i.imgur.com/kB2ug7X.png',
           link: 'https://meganouchida.netlify.app/',
         },
       ],
