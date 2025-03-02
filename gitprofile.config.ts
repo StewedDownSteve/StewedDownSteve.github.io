@@ -35,49 +35,49 @@ const CONFIG = {
         {
           title: 'BeautyMarks PDX',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            ' Website for cosmetic tattoos studio in Portland, OR. HTML, React, Node.js, 11ty, Nunjucks, SASS, JavaScript, Decap CMS, Netlify',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://github.com/StewedDownSteve/imgs-portfolio/blob/main/BMPDX-desktop-img.png',
           link: 'https://beautymarkspdx.netlify.app/',
         },
          {
           title: 'Good & Local Web Studio',
           description:
-            'My personal freelance website.',
+            'My personal freelance website for clients. HTML, CSS, Javascript, Sitemap, 100 on Google Page Speed',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://github.com/StewedDownSteve/imgs-portfolio/blob/main/goodlocal-port.png',
           link: 'https://goodlocalwebstudio.com/',
         },
         {
           title: 'Dr. Khalil Marrar',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Professional website for Chicago-based college professor and published writer. HTML, React, Node.js, 11ty, Nunjucks, SASS, JavaScript, Decap CMS, Netlify',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://github.com/StewedDownSteve/imgs-portfolio/blob/main/dr-marrar-port.png',
           link: 'https://github.com/StewedDownSteve/Dr-khalil-marrar-public',
         },
         {
           title: 'Moore Coffee Co.',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Made for a Portland Coffee Shop, Responsive, 100 on performance Google PageSpeed. HTML, CSS, JavaScript',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://github.com/StewedDownSteve/imgs-portfolio/blob/main/moore-port.png',
           link: 'https://moorecoffeeco.netlify.app/',
         },
         {
           title: 'Prospector Records',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Made for a Portland record store after they moved to a new location. HTML, CSS, JavaScript',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://github.com/StewedDownSteve/imgs-portfolio/blob/main/prospector-port.png',
           link: 'https://prospector-records.netlify.app/',
         },
         {
           title: 'Megan Ouchida, Portfolio',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'A personal website/portfolio for a Product Manager. HTML, CSS, JavaScript',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://github.com/StewedDownSteve/imgs-portfolio/blob/main/megan-port.png',
           link: 'https://meganouchida.netlify.app/',
         },
       ],
@@ -85,7 +85,7 @@ const CONFIG = {
   },
   seo: {
     title: 'Portfolio of Steve Replogle, Software Engineer',
-    description: 'Steve Replogle, Software Engineer, Web Developer, Own of Good & Local Web Studio',
+    description: 'Steve Replogle, Software Engineer, Web Developer, Owner of Good & Local Web Studio',
     imageURL: '',
   },
   social: {
