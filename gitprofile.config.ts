@@ -45,7 +45,7 @@ const CONFIG = {
           description:
             'My personal freelance website for clients. HTML, CSS, Javascript, Sitemap, 100 on Google Page Speed',
           imageUrl:
-            ' https://raw.githubusercontent.com/StewedDownSteve/imgs-portfolio/main/goodlocal-port.png',
+            'https://imgur.com/ZAQu5GV',
           link: 'https://goodlocalwebstudio.com/',
         },
         {
@@ -53,15 +53,15 @@ const CONFIG = {
           description:
             'Professional website for Chicago-based college professor and published writer. HTML, React, Node.js, 11ty, Nunjucks, SASS, JavaScript, Decap CMS, Netlify',
           imageUrl:
-            'https://raw.githubusercontent.com/StewedDownSteve/imgs-portfolio/main/dr-marrar-port.png',
+            'https://imgur.com/C5zn75E',
           link: 'https://github.com/StewedDownSteve/Dr-khalil-marrar-public',
         },
         {
           title: 'Moore Coffee Co.',
           description:
-            'https://raw.githubusercontent.com/StewedDownSteve/imgs-portfolio/main/moore-port.png',
+            'Coffee Shop in Portland Oregon, Coffee out of a VW Bus! HTML, CSS, JavaScript. 100 on Google Page Speed',
           imageUrl:
-            'https://github.com/StewedDownSteve/imgs-portfolio/blob/main/moore-port.png',
+            'https://imgur.com/kmKhjjT',
           link: 'https://moorecoffeeco.netlify.app/',
         },
         {
@@ -69,7 +69,7 @@ const CONFIG = {
           description:
             'Made for a Portland record store after they moved to a new location. HTML, CSS, JavaScript',
           imageUrl:
-            'https://raw.githubusercontent.com/StewedDownSteve/imgs-portfolio/main/prospector-port.png',
+            'https://imgur.com/ZkZ9EjN',
           link: 'https://prospector-records.netlify.app/',
         },
         {
@@ -77,7 +77,7 @@ const CONFIG = {
           description:
             'A personal website/portfolio for a Product Manager. HTML, CSS, JavaScript',
           imageUrl:
-            'https://raw.githubusercontent.com/StewedDownSteve/imgs-portfolio/main/megan-port.png',
+            'https://imgur.com/kB2ug7X',
           link: 'https://meganouchida.netlify.app/',
         },
       ],
@@ -282,11 +282,11 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Steve Replogle<a 
+  footer: `Hello I'm<a 
       class="text-primary" href="https://goodlocalwebstudio.com/"
       target="_blank"
       rel="noreferrer"
-    >GitProfile</a> Software Engineer | Web Developer`,
+    >Steve Replogle</a> Software Engineer | Web Developer`,
 
   enablePWA: true,
 };
