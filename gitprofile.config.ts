@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             ' Website for cosmetic tattoos studio in Portland, OR. HTML, React, Node.js, 11ty, Nunjucks, SASS, JavaScript, Decap CMS, Netlify',
           imageUrl:
-            'https://github.com/StewedDownSteve/imgs-portfolio/blob/main/BMPDX-desktop-img.png',
+            'https://raw.githubusercontent.com/StewedDownSteve/imgs-portfolio/main/BMPDX-desktop-img.png',
           link: 'https://beautymarkspdx.netlify.app/',
         },
          {
@@ -45,7 +45,7 @@ const CONFIG = {
           description:
             'My personal freelance website for clients. HTML, CSS, Javascript, Sitemap, 100 on Google Page Speed',
           imageUrl:
-            'https://github.com/StewedDownSteve/imgs-portfolio/blob/main/goodlocal-port.png',
+            ' https://raw.githubusercontent.com/StewedDownSteve/imgs-portfolio/main/goodlocal-port.png',
           link: 'https://goodlocalwebstudio.com/',
         },
         {
@@ -53,13 +53,13 @@ const CONFIG = {
           description:
             'Professional website for Chicago-based college professor and published writer. HTML, React, Node.js, 11ty, Nunjucks, SASS, JavaScript, Decap CMS, Netlify',
           imageUrl:
-            'https://github.com/StewedDownSteve/imgs-portfolio/blob/main/dr-marrar-port.png',
+            'https://raw.githubusercontent.com/StewedDownSteve/imgs-portfolio/main/dr-marrar-port.png',
           link: 'https://github.com/StewedDownSteve/Dr-khalil-marrar-public',
         },
         {
           title: 'Moore Coffee Co.',
           description:
-            'Made for a Portland Coffee Shop, Responsive, 100 on performance Google PageSpeed. HTML, CSS, JavaScript',
+            'https://raw.githubusercontent.com/StewedDownSteve/imgs-portfolio/main/moore-port.png',
           imageUrl:
             'https://github.com/StewedDownSteve/imgs-portfolio/blob/main/moore-port.png',
           link: 'https://moorecoffeeco.netlify.app/',
@@ -69,7 +69,7 @@ const CONFIG = {
           description:
             'Made for a Portland record store after they moved to a new location. HTML, CSS, JavaScript',
           imageUrl:
-            'https://github.com/StewedDownSteve/imgs-portfolio/blob/main/prospector-port.png',
+            'https://raw.githubusercontent.com/StewedDownSteve/imgs-portfolio/main/prospector-port.png',
           link: 'https://prospector-records.netlify.app/',
         },
         {
@@ -77,7 +77,7 @@ const CONFIG = {
           description:
             'A personal website/portfolio for a Product Manager. HTML, CSS, JavaScript',
           imageUrl:
-            'https://github.com/StewedDownSteve/imgs-portfolio/blob/main/megan-port.png',
+            'https://raw.githubusercontent.com/StewedDownSteve/imgs-portfolio/main/megan-port.png',
           link: 'https://meganouchida.netlify.app/',
         },
       ],
