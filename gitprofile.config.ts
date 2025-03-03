@@ -126,7 +126,7 @@ const CONFIG = {
     '11ty',
     'Nunjucks',
     'EJS',
-    "Handlebars'
+    'Handlebars',
     'SCSS',
     'MongoDB',
     'MySQL',
