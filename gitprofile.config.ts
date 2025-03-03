@@ -142,6 +142,7 @@ const CONFIG = {
     'Test-Driven Development (TDD)',
     'Chrome DevTools debugging',
     'Netlify',
+    'Docker',
     'AWS',
     'CI/CD pipelines',
     'Git',
@@ -201,8 +202,8 @@ const CONFIG = {
     {
       institution: 'Parkland College',
       degree: 'Assosciates',
-      // from: '2012',
-      // to: '2014',
+      from: '',
+      to: '',
     },
   ],
   // publications: [
