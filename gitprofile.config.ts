@@ -14,10 +14,10 @@ const CONFIG = {
     github: {
       display: true, // Display GitHub projects?
       header: 'Github Projects',
-      mode: 'automatic', // Mode can be: 'automatic' or 'manual'
+      mode: 'manual', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'stars', // Sort projects by 'stars' or 'updated'
-        limit: 10, // How many projects to display.
+        limit: 12, // How many projects to display.
         exclude: {
           forks: false, // Forked projects will not be displayed if set to true.
           projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        // projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['StewedDownSteve/CRM-Golang', 'StewedDownSteve/Playwright-JS-web-scrape', 'StewedDownSteve/Go-html-web-scraper', 'StewedDownSteve/ProjectManagment_FS_App', 'StewedDownSteve/henry-day-out-game', 'StewedDownSteve/Cat-Book-Redone', 'StewedDownSteve/Python-html-web-scrapper', 'StewedDownSteve/API_App_to_scale', 'StewedDownSteve/DnD-Monster-Finder-5e', 'StewedDownSteve/storybookscopy', 'StewedDownSteve/TicketTrackerFullStack', 'StewedDownSteve/Weather_App_Updated', ], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -111,10 +111,10 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-     'HTML',
+    'HTML',
     'CSS',
     'JavaScript',
     'Go',
@@ -125,12 +125,15 @@ const CONFIG = {
     'Next.js',
     '11ty',
     'Nunjucks',
+    'EJS',
+    "Handlebars'
     'SCSS',
     'MongoDB',
     'MySQL',
     'PostgreSQL',
     'RESTful APIs',
     'GraphQL',
+    'Apollo',
     'Google OAuth',
     'JSON',
     'Jest',
@@ -150,22 +153,36 @@ const CONFIG = {
     'Screaming Frog',
     'Google Search Console'
   ],
-  // experiences: [
-  //   {
-  //     company: 'Company Name',
-  //     position: 'Position',
-  //     from: 'September 2021',
-  //     to: 'Present',
-  //     companyLink: 'https://example.com',
-  //   },
-  //   {
-  //     company: 'Company Name',
-  //     position: 'Position',
-  //     from: 'July 2019',
-  //     to: 'August 2021',
-  //     companyLink: 'https://example.com',
-  //   },
-  // ],
+  experiences: [
+    {
+      company: 'Good & Local Web Studio',
+      position: 'Owner, Web Developer',
+      from: '2023',
+      to: 'Present',
+      companyLink: 'https://goodlocalwebstudio.com/',
+    },
+    {
+      company: 'AODocs, Cloud DMS Sass',
+      position: 'BDR',
+      from: '2022',
+      to: '2023',
+      companyLink: 'https://www.aodocs.com/',
+    },
+    {
+      company: 'APSI Intl.',
+      position: 'Project Manager',
+      from: '2020',
+      to: '2022',
+      companyLink: 'https://aisi.com/',
+    },
+    {
+      company: 'Heart Coffee Roasters',
+      position: 'Training Manager',
+      from: '2016',
+      to: '2020',
+      companyLink: 'https://www.heartroasters.com/',
+    },
+  ],
   // certifications: [
   //   {
   //     name: 'Lorem ipsum',
@@ -174,20 +191,20 @@ const CONFIG = {
   //     link: 'https://example.com',
   //   },
   // ],
-  // educations: [
-  //   {
-  //     institution: 'Institution Name',
-  //     degree: 'Degree',
-  //     from: '2015',
-  //     to: '2019',
-  //   },
-  //   {
-  //     institution: 'Institution Name',
-  //     degree: 'Degree',
-  //     from: '2012',
-  //     to: '2014',
-  //   },
-  // ],
+  educations: [
+    {
+      institution: '100Devs Bootcamp',
+      degree: 'Full-Stack Software Engineering',
+      from: '2023',
+      to: '2024',
+    },
+    {
+      institution: 'Parkland College',
+      degree: 'Assosciates',
+      // from: '2012',
+      // to: '2014',
+    },
+  ],
   // publications: [
   //   {
   //     title: 'Publication Title',
@@ -282,11 +299,11 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Hello I'm<a 
+  footer: `Hello I'm Steve Replogle. <a 
       class="text-primary" href="https://goodlocalwebstudio.com/"
       target="_blank"
       rel="noreferrer"
-    >Steve Replogle</a> Software Engineer | Web Developer`,
+    >Freelance</a> Software Engineer | Web Developer`,
 
   enablePWA: true,
 };
