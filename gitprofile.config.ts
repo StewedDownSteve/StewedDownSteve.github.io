@@ -89,11 +89,11 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: 'www.linkedin.com/in/stevereplogle1',
+    linkedin: '/in/stevereplogle1',
     // mastodon: 'arifszn@mastodon.social',
     // researchGate: '',
     // facebook: '',
-    instagram: 'https://www.instagram.com/steverepdev/',
+    instagram: '@steverepdev',
     // reddit: '',
     // threads: '',
     // youtube: '', // example: 'pewdiepie'
