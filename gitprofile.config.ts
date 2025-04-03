@@ -93,7 +93,7 @@ const CONFIG = {
     // mastodon: 'arifszn@mastodon.social',
     // researchGate: '',
     // facebook: '',
-    instagram: 'steverepdev',
+    // instagram: 'steverepdev',
     // reddit: '',
     // threads: '',
     // youtube: '', // example: 'pewdiepie'
