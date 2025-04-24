@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['StewedDownSteve/CRM-Golang', 'StewedDownSteve/Playwright-JS-web-scrape', 'StewedDownSteve/Go-html-web-scraper', 'StewedDownSteve/ProjectManagment_FS_App', 'StewedDownSteve/henry-day-out-game', 'StewedDownSteve/Cat-Book-Redone', 'StewedDownSteve/Python-html-web-scrapper', 'StewedDownSteve/API_App_to_scale', 'StewedDownSteve/DnD-Monster-Finder-5e', 'StewedDownSteve/storybookscopy', 'StewedDownSteve/TicketTrackerFullStack', 'StewedDownSteve/Weather_App_Updated', ], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['StewedDownSteve/ruby-rails-Linktree-copy', 'StewedDownSteve/CRM-Golang', 'StewedDownSteve/Playwright-JS-web-scrape', 'StewedDownSteve/Go-html-web-scraper', 'StewedDownSteve/ProjectManagment_FS_App', 'StewedDownSteve/henry-day-out-game', 'StewedDownSteve/Cat-Book-Redone','StewedDownSteve/API_App_to_scale', 'StewedDownSteve/DnD-Monster-Finder-5e', 'StewedDownSteve/storybookscopy'] // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
